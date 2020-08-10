@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Roberto 👋
 
-<!--
-**robertobdev/robertobdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bachelor in Systems Analysis, passionate about process automation, web and mobile development, current work as full-stack web and mobile developer. 🏖️ Living in Maceió, Alagoas, Brazil.
 
-Here are some ideas to get you started:
+### 💻  Technologies
+- Front-end: Angular, React
+- Back-end: Nestjs, Php, Node 
+- Mobile: React Native, Ionic
+- CI/CD: Docker, Docker-compose, GitLab CI/CD, Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Twitter - [@robertobdev](https://twitter.com/robertobdev)
+- LinkedIn - [@robertobdev](https://www.linkedin.com/in/robertobdev/)
+- Instagram - [@robertobdev](https://www.instagram.com/robertobdev/)
