@@ -1,6 +1,6 @@
 # Hi, I'm Roberto 👋
 
-I'm a bachelor in Systems Analysis, passionate about process automation, web and mobile development, current work as full-stack web and mobile developer. 🏖️ Living in Maceió, Alagoas, Brazil.
+I'm a bachelor in Systems Analysis, passionate about process automation, web and mobile development, current working as full-stack web and mobile developer. 🏖️ Living in Maceió, Alagoas, Brazil.
 
 ### 💻  Technologies
 - Front-end: Angular, React
